@@ -2,8 +2,7 @@
 .env
 
 # Don't commit secret chat logs
-history/
-*.json
+history/*.json
 
 # Virtual environment (Windows/macOS/Linux)
 venv/
