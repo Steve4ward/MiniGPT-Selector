@@ -3,6 +3,7 @@
 
 # Don't commit secret chat logs
 history/*.json
+!history/.gitkeep
 
 # Virtual environment (Windows/macOS/Linux)
 venv/
