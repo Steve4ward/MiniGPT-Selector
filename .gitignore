@@ -1,0 +1,30 @@
+# Don't commit environment config
+.env
+
+# Don't commit secret chat logs
+history/
+*.json
+
+# Virtual environment (Windows/macOS/Linux)
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS specific
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# Streamlit generated files (optional)
+.streamlit/
+
+# OS log or temp files
+*.log
+*.swp
