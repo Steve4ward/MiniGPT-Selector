@@ -28,7 +28,7 @@ MiniGPT is a lightweight web-based chat interface built with **Streamlit** and p
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/steve4ward/mini-chatgpt.git
+git clone https://github.com/steve4ward/MiniGPT-Selector.git
 cd mini-chatgpt
 python -m venv venv
 .\venv\Scripts\activate  # or source venv/bin/activate
